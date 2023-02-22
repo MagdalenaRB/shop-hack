@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "producto1",
+      "description": "que bonito",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "title": "producto2",
+      "description": "que bonito 2",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "title": "producto3",
+      "description": "que bonito 3",
+      "price": 3
+    },
+    {
+      "title": "producto 4",
+      "description": "q bonito 4",
+      "price": "4",
+      "id": 4
+    },
+    {
+      "title": "producto 5",
+      "description": "q bonito 5",
+      "price": "5",
+      "id": 5
+    },
+    {
+      "title": "producto 6",
+      "description": "q bonito 6",
+      "price": "6",
+      "id": 6
+    },
+    {
+      "title": "producto 7",
+      "description": "q bonito 7",
+      "price": "7",
+      "id": 7
+    },
+    {
+      "title": "producto hackaton",
+      "description": "q bonito 8",
+      "price": "10",
+      "id": 8
+    }
+  ]
+}
